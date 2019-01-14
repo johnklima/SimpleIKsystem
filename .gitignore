@@ -4,6 +4,10 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+ProjectSettings
+Assets/*.meta
+Assets/Scenes/*.meta
+Packages
 
 # Visual Studio cache directory
 .vs/
